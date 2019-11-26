@@ -1,0 +1,7 @@
+Install SpeechRecognition 
+         * For anaconda --> pip install speechrecognition
+         * For Python --> pip install speechrecognition
+
+Install pyaudio 
+         * For anaconda --> conda install pyaudio
+         * For Python --> pip install pyaudio
